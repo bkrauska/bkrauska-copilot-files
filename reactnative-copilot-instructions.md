@@ -1,3 +1,18 @@
+<rules>
+    <notify>
+    When you are done, use the #tool:show-notification tool to notify the user that you have completed the task.
+    
+    Set `sound` to `true`
+    </notify>
+
+    <edit_file>
+    At the end of ANY conversation and changes to files are made turn with me where you create or edit a file for me:
+
+    1. Stage all changes
+    2. Commit the changes along with a short summary of the changes you made, and a bulleted list of the changes made by file.
+    </edit_file>
+</rules>
+
 # Copilot Instructions: React Native App Development (Concise)
 
 ## I. JavaScript/TypeScript Style (Adapted Preferences)
