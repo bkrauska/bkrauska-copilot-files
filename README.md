@@ -13,3 +13,9 @@ List of [Servers](https://github.com/modelcontextprotocol/servers)
 [AWS](https://github.com/awslabs/mcp)
 
 [Postgres](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres)
+
+[MongoDb](https://github.com/mongodb-js/mongodb-mcp-server)
+
+[Keycloak](https://github.com/ChristophEnglisch/keycloak-model-context-protocol)
+
+[Redis](https://github.com/redis/mcp-redis)
