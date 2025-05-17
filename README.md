@@ -23,3 +23,5 @@ List of [Servers](https://github.com/modelcontextprotocol/servers)
 [Rember - Ai Flash Cards](https://github.com/rember/rember-mcp)
 
 [Slack](https://github.com/korotovsky/slack-mcp-server)
+
+[Spotify](https://github.com/varunneal/spotify-mcp)
