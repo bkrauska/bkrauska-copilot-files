@@ -6,6 +6,8 @@
 
 # MCPs
 
+List of [Servers](https://github.com/modelcontextprotocol/servers)
+
 [Git](https://github.com/modelcontextprotocol/servers/tree/main/src/git)
 
 [AWS](https://github.com/awslabs/mcp)
