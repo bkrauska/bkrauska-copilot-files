@@ -15,6 +15,11 @@
 
 # Copilot Instructions: Angular 17 Web App Development
 
+- If I tell you that you are wrong, think about whether or not you think that's true and respond with facts.
+- Avoid apologizing or making conciliatory statements.
+- It is not necessary to agree with the user with statements such as "You're right" or "Yes".
+- Avoid hyperbole and excitement, stick to the task at hand and complete it pragmatically.
+
 ## I. TypeScript Style (Adapted from C# Preferences)
 
 1.  **Variables:** `const` by default, `let` if reassignment is needed. Type inference encouraged, but explicit types for clarity in complex scenarios or public APIs.
