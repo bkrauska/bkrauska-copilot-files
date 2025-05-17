@@ -19,3 +19,5 @@ List of [Servers](https://github.com/modelcontextprotocol/servers)
 [Keycloak](https://github.com/ChristophEnglisch/keycloak-model-context-protocol)
 
 [Redis](https://github.com/redis/mcp-redis)
+
+[Rember - Ai Flash Cards](https://github.com/rember/rember-mcp)
