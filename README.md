@@ -9,3 +9,5 @@
 [Git](https://github.com/modelcontextprotocol/servers/tree/main/src/git)
 
 [AWS](https://github.com/awslabs/mcp)
+
+[Postgres](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres)
