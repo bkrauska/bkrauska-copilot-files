@@ -21,3 +21,5 @@ List of [Servers](https://github.com/modelcontextprotocol/servers)
 [Redis](https://github.com/redis/mcp-redis)
 
 [Rember - Ai Flash Cards](https://github.com/rember/rember-mcp)
+
+[Slack](https://github.com/korotovsky/slack-mcp-server)
